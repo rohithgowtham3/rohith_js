@@ -14,8 +14,16 @@
 // let boolisLogged = Boolean(isLogged)
 // console.log(boolisLogged);
 
-let num = 1000
-console.log(typeof num);
-let strnum = String(num)
-console.log(typeof strnum);
-console.log(strnum);
+// let num = 1000
+// console.log(typeof num);
+// let strnum = String(num)
+// console.log(typeof strnum);
+// console.log(strnum);
+
+// ***************Operations***************
+
+console.log("1" + 2);
+console.log("1" + 2 + 3);
+console.log(1 + 2 + "3" + "4" + "a");
+
+// 
