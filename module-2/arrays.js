@@ -1,13 +1,13 @@
 const myArr = [0, 1, 2, 3, 4, 5]
-// for (let i = 0; i < myArr.length; i++) {
-//     console.log(`${i+1}th element is ${myArr[i]}`);
-// }
+for (let i = 0; i < myArr.length; i++) {
+    console.log(`${i+1}th element is ${myArr[i]}`);
+}
 
 // array methods
 
-// myArr.push(10)
-// console.log(myArr);
-// console.log(myArr.push(110));
+myArr.push(10)
+console.log(myArr);
+console.log(myArr.push(110));
 
 // slice and splice
 
