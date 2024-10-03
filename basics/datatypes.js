@@ -1,4 +1,4 @@
-"use strict";  //treat all JS code as newer version
+// "use strict";  //treat all JS code as newer version
 
 // alert(3 + 3) //this works only in the console of the browser, the one used here is nodejs
 
@@ -13,3 +13,19 @@
 
 console.log(typeof "rohith");
 console.log(typeof null);
+
+
+// let student = true;
+// if(student) {
+//     console.log("is a student");
+// } else {
+//     console.log("not a student");
+// }
+
+let details = {
+    name: "rohith",
+    age: 25,
+    isStudent: true
+}
+
+console.log(details.name);

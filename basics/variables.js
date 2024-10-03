@@ -1,11 +1,12 @@
-const accountId = 144553
-let accountEmail = "roro@gmail.com"
-var accountPassword = "12345"
-accountCity = "Mysore"
-let accState;
+// let a = 10;
+// let b = 20;
 
-/*
-don't use var
-*/
+// console.log(a, b);
 
-console.table([accountId, accountEmail, accountPassword, accountCity, accState])
+
+{
+    let num = 25;
+    console.log(num);
+}
+
+console.log(num);
